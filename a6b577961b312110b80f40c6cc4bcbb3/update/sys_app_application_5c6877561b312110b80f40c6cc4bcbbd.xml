@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>x_951130_titos_app_tito's restaurant</name>
+        <order>100</order>
+        <roles>x_951130_titos_app.titos_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-28 05:46:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5c6877561b312110b80f40c6cc4bcbbd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Tito's Restaurant</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tito's Restaurant" source="x_951130_titos_app">a6b577961b312110b80f40c6cc4bcbb3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tito's Restaurant">a6b577961b312110b80f40c6cc4bcbb3</sys_scope>
+        <sys_update_name>sys_app_application_5c6877561b312110b80f40c6cc4bcbbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-28 05:47:51</sys_updated_on>
+        <title>Tito's Restaurant</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
