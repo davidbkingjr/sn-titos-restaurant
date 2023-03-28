@@ -5,12 +5,12 @@ Business Problem:
 <br>
 <br>
 Desired Outcomes:
-<br>A way to better track and manage restaurant events and it’s attendees
-<br>The ability to have an online menu that any guest can order from
-<br>Ability to track orders for pickup & delivery and streamline the process
-<br>Provide a way for customers to provide feedback/reviews
-<br>Establish a way for restaurant staff to be able to report safety issues and other concerns
-<br>Automate as much of the process as possible.
+<br>- A way to better track and manage restaurant events and it’s attendees
+<br>- The ability to have an online menu that any guest can order from
+<br>- Ability to track orders for pickup & delivery and streamline the process
+<br>- Provide a way for customers to provide feedback/reviews
+<br>- Establish a way for restaurant staff to be able to report safety issues and other concerns
+<br>- Automate as much of the process as possible.
 
 <br>
 <br>
