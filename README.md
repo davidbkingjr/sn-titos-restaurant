@@ -1,11 +1,17 @@
 # Tito's Restaurant Management Application
 <head>
 Business Problem:
-<br>The owner of Tito's Restaurant 
+<br>The manager team at Tito’s has seen a recent increase in success with their newly established restaurant; As a result of this recent boom, the team has decided that they need to seek out a more centralized and efficient way to manage and automate as many aspects of the restaurant that they can to keep up with customer demand.
 <br>
 <br>
 Desired Outcomes:
-<br>Placeholder Text
+<br>A way to better track and manage restaurant events and it’s attendees
+The ability to have an online menu that any guest can order from
+Ability to track orders for pickup & delivery and streamline the process
+Provide a way for customers to provide feedback/reviews
+Establish a way for restaurant staff to be able to report safety issues and other concerns
+Automate as much of the process as possible.
+
 <br>
 <br>
 The application incorporates the use of: >>>>>
