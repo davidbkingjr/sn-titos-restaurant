@@ -18,7 +18,7 @@ The application incorporates the use of: >>>>>
 <br> 
 <br>
 Project Files <br>
-<a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://docs.gitlab.com/ee/user/img/markdown_logo.png" width="36" height="36" /></a>
+<a href="https://gitlab.com/davidbkingjr/titos-restaurant"><img src="https://docs.gitlab.com/ee/user/img/markdown_logo.png" width="36" height="36" /></a>
 
 </head>
 
