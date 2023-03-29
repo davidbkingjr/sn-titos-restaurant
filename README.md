@@ -58,9 +58,6 @@ Description
 </div>
 
 Additional Images:
-<br><a href="">Application Forms</a>
-<br><a href="">Mobile View</a>
-<br><a href="">Record Producer</a>
-<br><a href="">Etc</a>
-<br><a href="">Etc?</a>
-<br><a href="">Etc??</a>
+<br><a href="">Additional Images 1</a>
+<br><a href="">Additional Images 2</a>
+<br><a href="">Additional Images 3</a>
