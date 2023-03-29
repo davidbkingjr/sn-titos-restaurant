@@ -25,9 +25,11 @@ Project Files <br>
 <div align="center">
 <hr>
 
-<img src="https://healvets.org/wp-content/uploads/2021/10/ef3-placeholder-image.jpeg"> 
+<img src="https://i.imgur.com/rKEswpp.png"> 
 <br>
-Tito's Restaurant Service Portal
+Tito's Restaurant Event Registration Record Producer that routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use. <br>
+<br>UI Policies & UI Policy actions: 21+ field which provides them an additional field in which they can choose their preferred alcoholic beverage. <br>
+<br>UI Policies & UI Policy actions: Allergies field which provides them an additional mandatory field in which they can specifiy in detail their allergies.
 <hr>
 
 <img src="https://healvets.org/wp-content/uploads/2021/10/ef3-placeholder-image.jpeg"> 
