@@ -27,7 +27,7 @@ Project Files <br>
 
 <img src="https://healvets.org/wp-content/uploads/2021/10/ef3-placeholder-image.jpeg"> 
 <br>
-Description
+Tito's Restaurant Service Portal
 <hr>
 
 <img src="https://healvets.org/wp-content/uploads/2021/10/ef3-placeholder-image.jpeg"> 
