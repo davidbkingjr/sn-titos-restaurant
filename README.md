@@ -27,14 +27,17 @@ Project Files <br>
 
 <img src="https://i.imgur.com/rKEswpp.png"> 
 <br>
-Tito's Restaurant Event Registration Record Producer that routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use. <br>
+Tito's Restaurant Event Registration Record Producer - It routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use. <br>
 <br>UI Policies & UI Policy actions: 21+ field which provides them an additional field in which they can choose their preferred alcoholic beverage. <br>
 <br>UI Policies & UI Policy actions: Allergies field which provides them an additional mandatory field in which they can specifiy in detail their allergies.
 <hr>
 
-<img src="https://healvets.org/wp-content/uploads/2021/10/ef3-placeholder-image.jpeg"> 
+<img src="https://i.imgur.com/sBp0teH.png"> 
 <br>
-Tito's Restaurant Application Menus
+Tito's Restaurant Application Menus <br>
+<br>"Menus" which have custom tables and forms for items that are referenced on forms elsewhere. 
+<br>"Staff" which has a table of all the customer event registrations, as well as order requests. 
+<br>"Managers" which has an event registree, reports for safety issues/concerns, a centralized employee table, and any restaurant feedback.
 <hr>
 
 <img src="https://healvets.org/wp-content/uploads/2021/10/ef3-placeholder-image.jpeg"> 
