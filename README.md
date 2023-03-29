@@ -14,7 +14,7 @@ Desired Outcomes:
 
 <br>
 <br>
-The application incorporates the use of: >>>>>
+The application incorporates the use of: Client Scripts, UI Policies & Actions, Business Rules, Script Includes, Scheduled Events & Notifications, Catalog Client Scripts & UI Policies, etc, etc
 <br> 
 <br>
 Project Files <br>
