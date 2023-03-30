@@ -25,7 +25,7 @@ Project Files <br>
 <div align="center">
 <hr>
 
-<img src="https://i.imgur.com/rKEswpp.png"> 
+<img src="https://i.imgur.com/IFsGVoS.png"> 
 <br>
 Tito's Restaurant Event Registration Record Producer - It routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use. <br>
 <br>UI Policies & UI Policy actions: 21+ field which provides them an additional field in which they can choose their preferred alcoholic beverage. <br>
