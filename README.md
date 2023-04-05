@@ -45,9 +45,9 @@ Tito's Restaurant Application Menus <br>
 <br>"Managers" which has an event registree, reports for safety issues/concerns, a centralized employee table, and any restaurant feedback.
 <hr>
 
-<img src="https://healvets.org/wp-content/uploads/2021/10/ef3-placeholder-image.jpeg"> 
+<img src="https://i.imgur.com/ydnLUGZ.png"> 
 <br>
-Service Catalog Items
+Event Registration - Email Confirmation
 <hr>
 
 <img src="https://healvets.org/wp-content/uploads/2021/10/ef3-placeholder-image.jpeg"> 
