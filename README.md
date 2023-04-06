@@ -50,10 +50,6 @@ Tito's Restaurant Application Menus <br>
 Event Registration - Email Confirmation
 <hr>
 
-<img src="https://healvets.org/wp-content/uploads/2021/10/ef3-placeholder-image.jpeg"> 
-<br>
-Description
-<hr>
   
 </div>
 
