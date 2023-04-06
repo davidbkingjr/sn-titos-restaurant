@@ -27,7 +27,7 @@ Project Files <br>
 
 <img src="https://i.imgur.com/zgJDfJS.png"> 
 <br>
-Tito's Restaurant Service Portal (WIP)
+Tito's Restaurant Service Portal
 <hr>
   
 <img src="https://i.imgur.com/IFsGVoS.png"> 
