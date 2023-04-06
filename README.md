@@ -25,7 +25,7 @@ Project Files <br>
 <div align="center">
 <hr>
 
-<img src="https://i.imgur.com/PJozbOB.mp4"> 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RjYzc4YzkzZjg4MThlY2EzNjViMGU3NGVhMjM2ZWQ1NDc0YmE5OCZjdD1n/INJz2CwDsn6JSAj4LR/giphy.gif"> 
 <br>
 Tito's Restaurant Service Portal
 <hr>
