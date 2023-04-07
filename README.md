@@ -54,6 +54,6 @@ Event Registration - Email Confirmation
 </div>
 
 Additional Images:
-<br><a href="">Additional Images 1</a>
-<br><a href="">Additional Images 2</a>
-<br><a href="">Additional Images 3</a>
+<br><a href="">WIP</a>
+<br><a href="">WIP</a>
+<br><a href="">WIP</a>
