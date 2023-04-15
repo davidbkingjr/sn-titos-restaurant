@@ -60,6 +60,6 @@ Event Registration - Email Confirmation
 </div>
 
 Additional Images:
-<!-- <br><a href="">WIP</a>
-<br><a href="">WIP</a>
+<!-- <br><a href="">Tables</a>
+<br><a href="">Scripts</a>
 <br><a href="">WIP</a>
