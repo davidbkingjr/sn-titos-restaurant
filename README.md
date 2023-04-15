@@ -25,12 +25,18 @@ Project Files <br>
 <div align="center">
 <hr>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZmYjlhOGYzOTg0OGI0MjEyZjY4OGM5YWJlMjI5NWIyMGMzNGFmMiZjdD1n/PfJZErEjKWQblyS5Ma/giphy.gif" style="width:600px;height:400px;"> 
+
+
+https://user-images.githubusercontent.com/117994855/232175688-d5169166-ac64-46ae-a2ab-14ada05a44f6.mp4
+
+
 <br>
 Tito's Restaurant Service Portal
 <hr>
   
-<img src="https://i.imgur.com/IFsGVoS.png"> 
+
+https://user-images.githubusercontent.com/117994855/232176015-69a27629-b68c-4258-a1e3-2638285a7102.mp4
+
 <br>
 Tito's Restaurant Event Registration Record Producer - It routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use. <br>
 <br>UI Policies & UI Policy actions: 21+ field which provides them an additional field in which they can choose their preferred alcoholic beverage. <br>
@@ -39,7 +45,7 @@ Tito's Restaurant Event Registration Record Producer - It routes directly to the
 
 <img src="https://i.imgur.com/sBp0teH.png"> 
 <br>
-Tito's Restaurant Application Menus <br>
+Tito's Restaurant Application Menus & Modules <br>
 <br>"Menus" which have custom tables and forms for items that are referenced on forms elsewhere. 
 <br>"Staff" which has a table of all the customer event registrations, as well as order requests. 
 <br>"Managers" which has an event registree, reports for safety issues/concerns, a centralized employee table, and any restaurant feedback.
@@ -50,7 +56,7 @@ Tito's Restaurant Application Menus <br>
 Event Registration - Email Confirmation
 <hr>
 
-  
+
 </div>
 
 Additional Images:
