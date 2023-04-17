@@ -1,4 +1,4 @@
-# Tito's Restaurant Management Application
+# ServiceNow - Tito's Restaurant Management Application
 <head>
 Business Problem:
 <br>The manager team at Tito’s has seen a recent increase in success with their newly established restaurant; As a result of this recent boom, the team has decided that they need to seek out a more centralized and efficient way to manage and automate as many aspects of the restaurant that they can to keep up with customer demand.
