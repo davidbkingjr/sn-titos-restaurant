@@ -26,16 +26,13 @@ Project Files <br>
 <hr>
 
 
+https://user-images.githubusercontent.com/117994855/232871754-81a674af-4e7b-4a7a-9976-7f8805c8f79d.mp4
 
-https://user-images.githubusercontent.com/117994855/232175688-d5169166-ac64-46ae-a2ab-14ada05a44f6.mp4
-
-
-<br>
 Tito's Restaurant Service Portal
-<hr>
-  
+<hr>  
 
-https://user-images.githubusercontent.com/117994855/232176015-69a27629-b68c-4258-a1e3-2638285a7102.mp4
+
+https://user-images.githubusercontent.com/117994855/232871817-ae93b92a-a482-4ca4-aa80-f3b32b79018d.mp4
 
 <br>
 Tito's Restaurant Event Registration Record Producer - It routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use. <br>
