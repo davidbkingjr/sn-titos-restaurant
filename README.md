@@ -34,10 +34,9 @@ Tito's Restaurant Service Portal
 
 https://user-images.githubusercontent.com/117994855/232871817-ae93b92a-a482-4ca4-aa80-f3b32b79018d.mp4
 
-<br>
-Tito's Restaurant Event Registration Record Producer
-<br>It routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use. <br>
-<br>UI Policies & UI Policy actions: 21+ field which provides them an additional field in which they can choose their preferred alcoholic beverage. <br>
+Tito's Restaurant Event Registration Record Producer <br>
+<br>It routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use.
+<br>UI Policies & UI Policy actions: 21+ field which provides them an additional field in which they can choose their preferred alcoholic beverage.
 <br>UI Policies & UI Policy actions: Allergies field which provides them an additional mandatory field in which they can specifiy in detail their allergies.
 <hr>
 
