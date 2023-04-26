@@ -1,5 +1,9 @@
 # ServiceNow - Tito's Restaurant Management Application
 <head>
+
+![image](https://user-images.githubusercontent.com/117994855/234485039-bd158d3a-98f6-461e-bf3c-b98c105a7354.png)
+<br>
+  <br>
 Business Problem:
 <br>The manager team at Tito’s has seen a recent increase in success with their newly established restaurant; As a result of this recent boom, the team has decided that they need to seek out a more centralized and efficient way to manage and automate as many aspects of the restaurant that they can to keep up with customer demand.
 <br>
@@ -12,7 +16,6 @@ Desired Outcomes:
 <br>• Establish a way for restaurant staff to be able to report safety issues and other concerns
 <br>• Automate as much of the process as possible.
 
-<br>
 <br>
 The application incorporates the use of: Client Scripts, UI Policies & Actions, Business Rules, Script Includes, Scheduled Events & Notifications, Catalog Client Scripts & UI Policies.
 <br> 
