@@ -45,15 +45,10 @@ Tito's Restaurant Event Registration Record Producer <br>
 
 <img src="https://i.imgur.com/D5WNBg6.jpg"> 
 <br>
-Tito's Restaurant Application Menus & Modules <br>
-<br>"Menus" which have custom tables and forms for items that are referenced on forms elsewhere. 
-<br>"Staff" which has a table of all the customer event registrations, as well as order requests. 
-<br>"Managers" which has an event registree, reports for safety issues/concerns, a centralized employee table, and any restaurant feedback.
 <hr>
 
 <img src="https://i.imgur.com/IlcKoyd.jpg"> 
 <br>
-Event Registration - Email Confirmation
 <hr>
 
 
