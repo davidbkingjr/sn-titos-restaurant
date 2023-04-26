@@ -55,6 +55,19 @@ Tito's Restaurant Event Registration Record Producer <br>
 </div>
 
 Additional Images:
+<details>
+  <summary>Application Back-End</summary>
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+</details>
+<details>
+  <summary>Script Previews</summary>
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+</details>
 <!-- <br><a href="">Tables</a>
 <br><a href="">Scripts</a>
 <br><a href="">WIP</a>
+
