@@ -43,7 +43,7 @@ Tito's Restaurant Event Registration Record Producer <br>
 <br>UI Policies & UI Policy actions: Allergies field which provides them an additional mandatory field in which they can specifiy in detail their allergies.
 <hr>
 
-<img src="https://i.imgur.com/cO119p7.jpg"> 
+<img src="https://i.imgur.com/D5WNBg6.jpg"> 
 <br>
 Tito's Restaurant Application Menus & Modules <br>
 <br>"Menus" which have custom tables and forms for items that are referenced on forms elsewhere. 
@@ -51,7 +51,7 @@ Tito's Restaurant Application Menus & Modules <br>
 <br>"Managers" which has an event registree, reports for safety issues/concerns, a centralized employee table, and any restaurant feedback.
 <hr>
 
-<img src="https://i.imgur.com/ydnLUGZ.png"> 
+<img src="https://i.imgur.com/IlcKoyd.jpg"> 
 <br>
 Event Registration - Email Confirmation
 <hr>
