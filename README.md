@@ -16,11 +16,10 @@ Desired Outcomes:
 <br>• Establish a way for restaurant staff to be able to report safety issues and other concerns
 <br>• Automate as much of the process as possible.
 
-<br>
 The application incorporates the use of: Client Scripts, UI Policies & Actions, Business Rules, Script Includes, Scheduled Events & Notifications, Catalog Client Scripts & UI Policies.
 <br> 
 <br>
-Project Files <br>
+Project Files:<br>
 <a href="https://gitlab.com/davidbkingjr/titos-restaurant"><img src="https://docs.gitlab.com/ee/user/img/markdown_logo.png" width="36" height="36" /></a>
 
 </head>
