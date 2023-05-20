@@ -53,7 +53,7 @@ Tito's Restaurant Event Registration Form <br>
 
 </div>
 
-Additional Images:
+<!-- Additional Images:
 <details>
   <summary>Application Back-End</summary>
   <div align="center">
