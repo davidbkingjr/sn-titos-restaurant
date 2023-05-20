@@ -33,13 +33,13 @@ https://user-images.githubusercontent.com/117994855/232871754-81a674af-4e7b-4a7a
 Tito's Restaurant Service Portal
 <hr>  
 
+https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/2fa5a136-6753-493b-9fd9-63c94b3f98a3
 
-https://user-images.githubusercontent.com/117994855/232871817-ae93b92a-a482-4ca4-aa80-f3b32b79018d.mp4
-
-Tito's Restaurant Event Registration Record Producer <br>
-<br>It routes directly to the Event Registration table. The use of a simplified form with questions as prompts makes it easier for the customers to use.
-<br>UI Policies & UI Policy actions: 21+ field which provides them an additional field in which they can choose their preferred alcoholic beverage.
-<br>UI Policies & UI Policy actions: Allergies field which provides them an additional mandatory field in which they can specifiy in detail their allergies.
+Tito's Restaurant Event Registration Form <br>
+<details>
+  <summary>Script Preview</summary>
+  <img src="https://i.imgur.com/3U5pZUX.png" name="Registration Widget">
+  </details>
 <hr>
 
 <img src="https://i.imgur.com/D5WNBg6.jpg"> 
@@ -66,8 +66,6 @@ Additional Images:
 <details>
   <summary>Script Previews</summary>
   <div align="center">
-    <img src="https://i.imgur.com/3U5pZUX.png" name="Registration Widget"><br>
-  Registration Widget <br> <br>
   <img src="https://i.imgur.com/yHRYdN8.png" name="Available Events Widget"><br>
   Available Events <br> <br>
     <img src="image-url" name="image-name">
