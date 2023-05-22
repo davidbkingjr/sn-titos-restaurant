@@ -41,6 +41,33 @@ Tito's Restaurant Event Registration Form <br>
   <img src="https://i.imgur.com/3U5pZUX.png" name="Registration Widget">
   </details>
 <hr>
+  
+https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/2fa5a136-6753-493b-9fd9-63c94b3f98a3
+
+Tito's Restaurant Contact Us Forms <br>
+<details>
+  <summary>Script Preview</summary>
+  <img src="https://i.imgur.com/3U5pZUX.png" name="Registration Widget">
+  </details>
+<hr>
+  
+https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/2fa5a136-6753-493b-9fd9-63c94b3f98a3
+
+Tito's Restaurant Staff Event Registrations <br>
+<details>
+  <summary>Script Preview</summary>
+  <img src="https://i.imgur.com/3U5pZUX.png" name="Registration Widget">
+  </details>
+<hr>
+ 
+https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/2fa5a136-6753-493b-9fd9-63c94b3f98a3
+
+Tito's Restaurant Staff Feedback <br>
+<details>
+  <summary>Script Preview</summary>
+  <img src="https://i.imgur.com/3U5pZUX.png" name="Registration Widget">
+  </details>
+<hr>
 
 <img src="https://i.imgur.com/D5WNBg6.jpg"> 
 <br>
