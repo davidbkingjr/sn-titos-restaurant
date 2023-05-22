@@ -33,7 +33,9 @@ https://user-images.githubusercontent.com/117994855/232871754-81a674af-4e7b-4a7a
 Tito's Restaurant Service Portal
 <hr>  
 
-https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/2fa5a136-6753-493b-9fd9-63c94b3f98a3
+
+https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/d9004d4c-cb95-4be0-a471-307c62b25d13
+
 
 Tito's Restaurant Event Registration Form <br>
 <details>
@@ -42,30 +44,31 @@ Tito's Restaurant Event Registration Form <br>
   </details>
 <hr>
   
-https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/2fa5a136-6753-493b-9fd9-63c94b3f98a3
+https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/588e5b8a-11f3-4dd7-a5db-c2fec1ca1681
 
 Tito's Restaurant Contact Us Forms <br>
 <details>
   <summary>Script Preview</summary>
-  <img src="https://i.imgur.com/3U5pZUX.png" name="Registration Widget">
+  <img src="" name="Contact Us Widgets">
   </details>
 <hr>
-  
-https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/2fa5a136-6753-493b-9fd9-63c94b3f98a3
+
+https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/0abb4231-a65b-499d-a40e-38030ae9a19c
+
 
 Tito's Restaurant Staff Event Registrations <br>
 <details>
   <summary>Script Preview</summary>
-  <img src="https://i.imgur.com/3U5pZUX.png" name="Registration Widget">
+  <img src="" name="Staff Event Registration Preview">
   </details>
 <hr>
  
-https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/2fa5a136-6753-493b-9fd9-63c94b3f98a3
+https://github.com/davidbkingjr/sn-titos-restaurant/assets/117994855/d70a7fcd-39ab-4388-b281-a944a22cdf16
 
 Tito's Restaurant Staff Feedback <br>
 <details>
   <summary>Script Preview</summary>
-  <img src="https://i.imgur.com/3U5pZUX.png" name="Registration Widget">
+  <img src="" name="Staff Feedback Preview">
   </details>
 <hr>
 
